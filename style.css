@@ -33,10 +33,11 @@
 }
 .zz{
     background-color: yellow;
+    
 }
 .G{
     margin-top: 1%;
-    margin-left: 10%;
+    margin-left: 20%;
     width: 20px;
     height: 30;
     
@@ -197,17 +198,23 @@ margin-top: 5%;
 }
 .zzzw{
     background-color: purple;;
+    
 }
 .ut{
     margin-left: 10%;
     margin-top: -15%;
-    color: white;
+    /* color: white; */
     
 }
 .DP{
     border-radius: 60PX;
     padding: 10px;
 }
+
+@media screen {
+    
+}
+
 
 
 
